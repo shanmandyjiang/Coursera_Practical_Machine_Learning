@@ -635,7 +635,7 @@ print(AccuracyResults)
     4 Support Vector Machine 0.7816483
 
 
-The best model is the Random Forest model, with 0.9945624 accuracy. 
+The best model is the Random Forest model, with 0.9945624 accuracy and therefore the out of sample error is 1-accuracy = 0.0054376, which is the smallest one across all 4 models.
 
 ## Prediction on test set
 
